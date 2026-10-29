@@ -1,0 +1,1 @@
+import{t as e}from"./client.Cy7fLNQY.js";import{t}from"./dismiss.CBZQV_BW.js";t(`.about`),addEventListener(`keydown`,t=>{t.key===`Escape`&&document.querySelector(`.about`)&&e(`/`)});

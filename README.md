@@ -1,1 +1,0 @@
-# jjkg07.github.io
